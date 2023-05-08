@@ -41,3 +41,6 @@ Another important feature of GitHub is collaboration. Teams can work together on
 Branches and forks are also important features of GitHub. Branches allow team members to work on different features or fixes simultaneously without conflicts. Forks allow team members to make changes without affecting the original repository. This is useful for experimenting or proposing changes to a project.
 
 In addition to these features, GitHub also offers a range of integrations with other tools and platforms, making it a versatile and flexible platform for developers and project teams. Overall, GitHub is an essential tool for modern software development and collaboration.
+
+## Link to install:
+https://github.com/
